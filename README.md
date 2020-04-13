@@ -1,3 +1,3 @@
 React
 
-https://react-administrador-citas-e37e48.netlify.com/
+https://react-administrador-citas-19.netlify.com/
