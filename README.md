@@ -1,3 +1,3 @@
 React
 
-https://festive-hypatia-e37e48.netlify.com
+https://react-administrador-citas-e37e48.netlify.com/
